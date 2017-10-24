@@ -1,27 +1,27 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 蔡奕腾 (cai-yt@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/IvanCabbage
 
 ---
 
-## 本讲内容
+## 自我介绍
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1.自我介绍</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 我不喜欢学习
+#### &nbsp; &nbsp; 1.2 学习也不喜欢我
+#### &nbsp; &nbsp; 1.3 我要好好学习
 
-### 2. 第二部分
+### <font color="orangered">2. 我与学习</font>
 
-### 3. 第三部分
+### 3. 学习与我
 
 ---
 
@@ -37,11 +37,11 @@ int main()
 
 ---
 
-## 插图
+## 听说要一张插图
 
-** Ada Lovelace **
+**  **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="https://pic3.zhimg.com/50/a128258453eaf8f90d0e241858e580ba_hd.jpg">
 
 ---
 
